@@ -1,0 +1,10 @@
+C:\Users\g.ionov\source\repos\WFA_DinnerParty\WFA_DinnerParty\obj\Debug\WFA_DinnerParty.csprojAssemblyReference.cache
+C:\Users\g.ionov\source\repos\WFA_DinnerParty\WFA_DinnerParty\obj\Debug\WFA_DinnerParty.Form1.resources
+C:\Users\g.ionov\source\repos\WFA_DinnerParty\WFA_DinnerParty\obj\Debug\WFA_DinnerParty.Properties.Resources.resources
+C:\Users\g.ionov\source\repos\WFA_DinnerParty\WFA_DinnerParty\obj\Debug\WFA_DinnerParty.csproj.GenerateResource.cache
+C:\Users\g.ionov\source\repos\WFA_DinnerParty\WFA_DinnerParty\obj\Debug\WFA_DinnerParty.csproj.CoreCompileInputs.cache
+C:\Users\g.ionov\source\repos\WFA_DinnerParty\WFA_DinnerParty\bin\Debug\WFA_DinnerParty.exe.config
+C:\Users\g.ionov\source\repos\WFA_DinnerParty\WFA_DinnerParty\bin\Debug\WFA_DinnerParty.exe
+C:\Users\g.ionov\source\repos\WFA_DinnerParty\WFA_DinnerParty\bin\Debug\WFA_DinnerParty.pdb
+C:\Users\g.ionov\source\repos\WFA_DinnerParty\WFA_DinnerParty\obj\Debug\WFA_DinnerParty.exe
+C:\Users\g.ionov\source\repos\WFA_DinnerParty\WFA_DinnerParty\obj\Debug\WFA_DinnerParty.pdb
